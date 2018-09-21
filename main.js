@@ -68,17 +68,17 @@ var secondQuestionCloze = new ClozeCard( "Donald Trump is the current president 
 // console.log('full = ', secondQuestionCloze.fullText);
 // console.log('partial =', secondQuestionCloze.partial());
 
-var thirdQuestionCloze = new ClozeCard("Adam West was the first Batman.", "Adam West");
+var thirdQuestionCloze = new CCard("Adam West was the first Batman.", "Adam West");
 // console.log('cloze = ', thirdQuestionCloze.cloze);
 // console.log('full = ', thirdQuestionCloze.fullText);
 // console.log('partial =', thirdQuestionCloze.partial());
 
-var fourthQuestionCloze = new ClozeCard("Democracy is form of government that is run for and by the people, giving people the supreme power.", "Democracy");
+var fourthQuestionCloze = new CCard("Democracy is form of government that is run for and by the people, giving people the supreme power.", "Democracy");
 // console.log('cloze = ', fourthQuestionCloze.cloze);
 // console.log('full = ', fourthQuestionCloze.fullText);
 // console.log('partial =', fourthQuestionCloze.partial());
 
-var fifthQuestionCloze = new ClozeCard("Philadelphia was a city that Declaration of Independence was signed?", "Philadelphia");
+var fifthQuestionCloze = new CCard("Philadelphia was a city that Declaration of Independence was signed?", "Philadelphia");
 // console.log('cloze = ', ffifthQuestion.cloze);
 // console.log('full = ', ffifthQuestion.fullText);
 // console.log('partial =', ffifthQuestion.partial());
